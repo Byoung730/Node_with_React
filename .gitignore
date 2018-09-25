@@ -3,3 +3,5 @@ node_modules
 .heroku_addresses
 
 keys.js
+
+.jshintrc
